@@ -1,0 +1,2 @@
+#define INTEROP_API __declspec(dllexport)
+#define INTEROP_API __declspec(dllimport)
